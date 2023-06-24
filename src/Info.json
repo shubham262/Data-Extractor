@@ -1,0 +1,7 @@
+{
+  "GarlandcityUrl": "https://www.countyoffice.org/garland-tx-property-records/",
+  "GarlendAllStreet": "#nav-tab-content>div>ul li a",
+  "GarlandAllProperties": "div.list-group >ul.lgl li a",
+  "propertyTitle": "table.table >tbody tr th",
+  "propertyValues": "table.table >tbody tr td"
+}
